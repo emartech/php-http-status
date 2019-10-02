@@ -9,9 +9,6 @@
   "require": {
     "php": ">=5.3.0"
   },
-  "require-dev": {
-    "fqqdk/packagist-publisher": "*"
-  },
   "autoload": {
     "psr-4": {
         "HttpStatus\\": "src/"
